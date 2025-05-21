@@ -1,3 +1,7 @@
+Customized as per the requirements of Antz - Built on top of Adorable
+
+All credit goes to Adorable 
+
 # Adorable
 
 Open-source version of **Lovable** - an AI agent that can make websites and apps through a chat interface.
